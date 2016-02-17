@@ -1,0 +1,21 @@
+<root>
+<node>
+<location>manipal university</location>
+<y>245</y><x>403</x>
+</node>
+<node>
+<location>mu</location><y>245</y><x>403</x>
+</node>
+<node>
+<location>ic</location><y>356</y><x>767</x>
+</node>
+<node>
+<location>mit</location><y>302</y><x>778</x>
+</node>
+<node>
+<location>kc</location><y>550</y><x>800</x>
+</node>
+<node>
+<location>mic</location><y>487</y><x>657</x>
+</node>
+</root>
